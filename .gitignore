@@ -1,1 +1,4 @@
-gits
+/.gitignore
+/gits
+/python/*
+!/python/projects
